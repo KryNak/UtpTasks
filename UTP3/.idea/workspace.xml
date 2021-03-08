@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfeedc58-8e27-4880-8b32-ef752e70e435" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqDsQfDs6jeLNrtYsLEQTh5HWb" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programy java/DesignPatterns" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zad4" />
+      <recent name="zad3" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="zad5" />
+      <recent name="zad4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad5.Main" />
+      <module name="UTP3_NK_S20258" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad2.Main" />
+      <module name="UTP3_NK_S20258" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad4.Main" />
+      <module name="UTP3_NK_S20258" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="UTP3_NK_S20258" />
+      <option name="PROGRAM_PARAMETERS" value="Warszawa 100 Kielce 200 Szczecin 300" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="zad3.Main" />
+      <module name="UTP3_NK_S20258" />
+      <option name="PROGRAM_PARAMETERS" value="Warszawa 100 Kielce 200 Szczecin 300" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfeedc58-8e27-4880-8b32-ef752e70e435" name="Default Changelist" comment="" />
+      <created>1604522934214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604522934214</updated>
+      <workItem from="1604522938027" duration="507000" />
+      <workItem from="1604584150769" duration="2267000" />
+      <workItem from="1604588154586" duration="606000" />
+      <workItem from="1604597186498" duration="37000" />
+      <workItem from="1604604474780" duration="7301000" />
+      <workItem from="1604656183075" duration="3315000" />
+      <workItem from="1604674639413" duration="644000" />
+      <workItem from="1604677917896" duration="140000" />
+      <workItem from="1604686459367" duration="3644000" />
+      <workItem from="1604696319802" duration="786000" />
+      <workItem from="1605109628417" duration="9635000" />
+      <workItem from="1605196776008" duration="1460000" />
+      <workItem from="1605198446233" duration="140000" />
+      <workItem from="1605210617405" duration="12000" />
+      <workItem from="1605259691584" duration="1827000" />
+      <workItem from="1605266283392" duration="2447000" />
+      <workItem from="1605284024294" duration="191000" />
+      <workItem from="1605297695488" duration="876000" />
+      <workItem from="1605299210996" duration="27000" />
+      <workItem from="1605632108810" duration="3670000" />
+      <workItem from="1605794367270" duration="986000" />
+      <workItem from="1605804179071" duration="560000" />
+      <workItem from="1605871891378" duration="1213000" />
+      <workItem from="1605886618224" duration="2259000" />
+      <workItem from="1606128345306" duration="37000" />
+      <workItem from="1606562247372" duration="44000" />
+      <workItem from="1611074800070" duration="771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UTP3_NK_S20258$Main3.ic" NAME="Main3 Coverage Results" MODIFIED="1605794784624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zad3.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>
